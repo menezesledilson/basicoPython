@@ -1,0 +1,2 @@
+Tema da aula: Programando em Python no VSCode 
+Conteúdo Programático: Lembrando do Python: criando um cadastro de produto; Variáveis "nome", "descrição" e "preço"; Leitura de dados nas variáveis; Guardando os dados em um dicionário; Usando uma função para guardar os dados; Usando uma função para exibir os dados; Font-size shortcuts https://marketplace.visualstudio.com/items?itemName=fosshaas.fontsize-shortcuts; Python https://marketplace.visualstudio.com/items?itemName=ms-python.python; Pylance https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
